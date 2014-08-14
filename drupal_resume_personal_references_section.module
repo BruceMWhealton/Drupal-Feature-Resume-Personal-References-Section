@@ -1,0 +1,7 @@
+<?php
+/**
+ * @file
+ * Code for the Drupal Resume Personal References Section feature.
+ */
+
+include_once 'drupal_resume_personal_references_section.features.inc';
